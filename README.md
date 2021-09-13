@@ -1,16 +1,19 @@
-# imc_calc
+# Calculadora de IMC
+### Projeto em Flutter
+Aprendizados com esse projeto:
 
-A new Flutter project.
+[x] Scaffold e AppBar
 
-## Getting Started
+[x] TextField e Decoration
 
-This project is a starting point for a Flutter application.
+[x] ScrollView e RaisedButton(Alterado para Elevated Button)
 
-A few resources to get you started if this is your first Flutter project:
+[x] Controller e Cálculos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[x] Formulários e Validações
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[x] Gerar um APK 
+
+[APK Download](https://drive.google.com/file/d/1qdWpSoo7YKIV8hqvwfJyZ_7H3lIBRGUj/view?usp=sharing)
+
+Projeto : Guilherme Martins Silva
